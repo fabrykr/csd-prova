@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /cookie.html
+Disallow: /note-legali.html
+
+Sitemap: /sitemap.xml
